@@ -1,6 +1,6 @@
 # 📄 林鈺軒 | LIN-YU-XUAN
 **資訊與圖書館學系學生 | 大學部**
-📍 台灣， 新北市 | ✉️ your.email@email.com | 🌐 [GitHub](https://github.com) | 🔗 [LinkedIn](https://linkedin.com)
+📍 台灣， 新北市 | ✉️ kasminlyx.email@email.com | 🌐 [GitHub](https://github.com) | 🔗 [LinkedIn](https://linkedin.com)
 
 ---
 
@@ -38,4 +38,6 @@
 * **核心貢獻**：
     * 編寫爬蟲腳本收集特定時段內的公開文本數據。
     * 進行初步的文本情感分析與關鍵字詞頻統計，並撰寫完整的分析報告。
+ 
+      
 
